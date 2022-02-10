@@ -63,7 +63,7 @@ Variété moyennement productive. Sensible aux maladies en fin de saison. Croiss
   
 | ![](jpg_jardin/IMG_3682.jpg) | ![](jpg_jardin/IMG_3685.jpg) |
 |:--:|:--:|
-| Plant de Bumble Bee jaune (2021/09/01)  |  Plant de Bumble Bee rouge (2021/09/01)) |
+| Plant de Bumble Bee jaune (2021/09/01)  |  Plant de Bumble Bee rouge (2021/09/01) |
 
 ### Sunpeach
 Très bon goût et belle couleur rosée. Légèrement oblongue.
@@ -100,6 +100,9 @@ Tomate groseille (*Solanum pimpinellifolium*) rouge de petite taille (max 1 cm d
 * 2021 : 1 plant en terre (sur face cabanon). Peu sucrée. Production jusqu'aux gels.
   + Production : 158 tomates
 
+| ![](jpg_jardin/IMG_3491.jpg) | ![](jpg_jardin/IMG_3581.jpg) |
+|:--:|:--:|
+| Grappe de fruits Petit moineau (2021/08/17)  |  Section du plant (2021/08/27) |
 
 ```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fruits Petit moineau (2021/08/17)   ;   Section du plant (2021/08/27)" }
 knitr::include_graphics(c("photos_jardin/IMG_3491.jpg","photos_jardin/IMG_3581.jpg"))
@@ -180,7 +183,7 @@ knitr::include_graphics(c("photos_jardin/IMG_3665.jpg", "photos_jardin/IMG_3637.
 Tomate cerise à port compact pour jardinière. 
 
 * 2021 : 1 plant en jardinière, production nulle. Beaucoup de mortalité des semis : maladie fongique ? Graines infectées ? 
-  + Production : 0   :( 
+  + Production : 0  :( 
 
 
 ## Grosses tomates
@@ -192,12 +195,9 @@ Bon et beau fruit rouge de taille moyenne (environ 2 po de diamètre). Plant com
   + Production : 0 tomate. What a failure... 
   + 1 plant dans bac au chalet. Le plant du chalet a eu une croissance indéterminée de > 2.5 m et a produit beaucoup de fruits plus petits (autour de 1 po de diamètre) : erreur d'ensachage ou génétique instable ???
 
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Plant de Bobcat normal (2020/08/13)   ;   Plant de Bobcat à croissance anormale (2021/09/19)" }
-knitr::include_graphics(c("photos_jardin/IMG_9556.jpg", "photos_jardin/IMG_3943.jpg"))
-```
-
-     
+| ![](jpg_jardin/IMG_9556.jpg) | ![](jpg_jardin/IMG_3943.jpg) |
+|:--:|:--:|
+| Plant de Bobcat normal (2020/08/13) | Plant de Bobcat à croissance anormale (2021/09/19) |    
 
 ### Costoluto fiorentino
 Beau fruit rouge côtelé, goût moyen. Plant vigoureux et productif. Sensible à la pourriture apicale et aux maladies. Ne semble pas bien tolérer la culture en pot (ex. 2020).
@@ -206,16 +206,13 @@ Beau fruit rouge côtelé, goût moyen. Plant vigoureux et productif. Sensible �
 * 2021 : Beaucoup moins de pourriture apicale qu'en 2020. 1 plant en terre.
   + Production : 6 tomates
 
+| ![](jpg_jardin/IMG_9683.jpg) | ![](jpg_jardin/IMG_4274.jpg) |
+|:--:|:--:|
+| Plant de Costoluto fiorentino (2020/08/23) |  Fruit (2021/10/17) |  
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Plant de Costoluto fiorentino (2020/08/23)   ;   Fruit (2021/10/17)" }
-knitr::include_graphics(c("photos_jardin/IMG_9683.jpg", "photos_jardin/IMG_4274.jpg"))
-```
-
-     
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Pourriture apicale (2020/08/05)" }
-knitr::include_graphics("photos_jardin/IMG_9436.jpg")
-```
-
+| <img src="jpg_jardin/IMG_9436.jpg" width="500" /> |
+|:--:|
+| Pourriture apicale (2020/08/05) |
 
 ### Lemon Boy
 Fruit jaune moyen (<2 po diamètre) au goût très (trop ?) doux. Plant un peu chétif. Peu productif.
@@ -224,18 +221,15 @@ Fruit jaune moyen (<2 po diamètre) au goût très (trop ?) doux. Plant un peu c
 * 2021 : 1 plant en terre. Encore peu productif.
   + Production : 2 tomates
 
-     
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Tomate Lemon Boy à point (2021/09/14)" }
-knitr::include_graphics("photos_jardin/IMG_3876 - Copie.jpg")
-```
-
+| <img src="jpg_jardin/IMG_3876 - Copie.jpg" width="500" /> |
+|:--:|
+| Tomate Lemon Boy à point (2021/09/14) |
 
 ### Patio Hybrid
 Supposée être une tomate moyenne produite par plant compact de 50-60 cm de haut. Pas encore réussi à en produire suffisament.
 
 * 2021 : 1 plant en pot, starté à l'intérieur dans serre à l'automne 2020. A survécu à la "tragédie du 26 janvier 2021", i.e. passage de 20 à -25 degrés à cause de porte de garage ouverte.
   + Production : 1 tomate
-
 
 
 ### Big Beef
@@ -245,13 +239,13 @@ Big best! Gros fruit (>2 po diamètre) rouge et bien charnu. Excellent goût. Pl
 * 2021 : Meilleure production qu'en 2020. Grappes avec fruits plus nombreux. 2 plants en terre, 1 dans jardin et 1 derrière piscine. Plant derrière piscine a été plus productif : plus de soleil ?
   + Production : 7 tomates
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Naya et sa récolte de Big Beef (2020/08/30)" }
-knitr::include_graphics("photos_jardin/IMG_9753.jpg")
-```
+| <img src="jpg_jardin/IMG_9753.jpg" width="500" /> |
+|:--:|
+| Ya et sa récolte de Big Beef (2020/08/30) |
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de tomate Big Beef (2021/08/11)   ;   (2021/09/01)   ;   Tomate Big Beef mature (2021/09/12)" }
-knitr::include_graphics(c("photos_jardin/IMG_3395.jpg", "photos_jardin/IMG_3663.jpg", "photos_jardin/IMG_3859.jpg"))
-```
+| ![](jpg_jardin/IMG_3395.jpg) | ![](jpg_jardin/IMG_3663.jpg) | ![](jpg_jardin/IMG_3859.jpg) |
+|:--:|:--:|:--:|
+| Grappe de tomate Big Beef (2021/08/11) |  (2021/09/01) | Tomate Big Beef mature (2021/09/12) |
 
 ### Noire de Crimée
 Grosse tomate brune rosée au goût étrange, épaules vertes. Plant robuste. Tendance au fendillement.
@@ -259,16 +253,13 @@ Grosse tomate brune rosée au goût étrange, épaules vertes. Plant robuste. Te
 * 2021 : 1 plant en pot et 1 plant en terre. Plus performante en pleine terre. Beaucoup de fendillement, sensible à l'excès d'eau. Texture souvent "mushy" et peu goûteuse.
   + Production : 8 tomates
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Tomate Black Krim (2021/09/09)" }
-knitr::include_graphics("photos_jardin/IMG_3811.jpg")
-```
+| <img src="jpg_jardin/IMG_3811.jpg" width="500" /> |
+|:--:|
+| Tomate Black Krim (2021/09/09) |
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Fendillement (2021/10/17)" }
-knitr::include_graphics("photos_jardin/IMG_4260.jpg")
-```
-
+| <img src="jpg_jardin/IMG_4260.jpg" width="500" /> |
+|:--:|
+| Fendillement (2021/10/17) |
 
 ### Mr Stripey 
 Grosse tomate jaune mangue avec marbrures rouges. Très beau fruit charnu, patron de coloration "oeil de Sauron". Goût sucré agréable. Plant très vigoureux.
@@ -276,10 +267,9 @@ Grosse tomate jaune mangue avec marbrures rouges. Très beau fruit charnu, patro
 * 2021 : 1 plant en terre. Tendance au fendillement.
   + Production : 4 tomates
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Tomate Mr Stripey au patron 'oeil de Sauron' (2021/09/19)" }
-knitr::include_graphics("photos_jardin/IMG_3951.jpg")
-```
+| <img src="jpg_jardin/IMG_3951.jpg" width="500" /> |
+|:--:|
+| Tomate Mr Stripey au patron 'oeil de Sauron' (2021/09/19) |
 
 
 ### Chef's Choice Orange
@@ -288,11 +278,9 @@ Grosse tomate orange segmentée et charnue. Goût sucré agréable.
 * 2021 : 1 plant en terre. 
   + Production : 2 tomates
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Tomates Chef's Choice (2021/08/27)" }
-knitr::include_graphics("photos_jardin/IMG_3582.jpg")
-```
-
+| <img src="jpg_jardin/IMG_3582.jpg" width="500" /> |
+|:--:|
+| Tomates Chef's Choice (2021/08/27) |
 
 ### Moskvich 
 Tomate moyenne rouge produite en grappes de fruits. Bon goût.
@@ -300,11 +288,9 @@ Tomate moyenne rouge produite en grappes de fruits. Bon goût.
 * 2021 : 1 plant en pot. Plusieurs grappes de quelques fleurs. Mûrissement assez lent.
   + Production : 4 tomates
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Plant de tomates Moskvich (2021/09/01)   ;   (2021/09/14)" }
-knitr::include_graphics(c("photos_jardin/IMG_3668.jpg", "photos_jardin/IMG_3867.jpg"))
-```
-
+| ![](jpg_jardin/IMG_3668.jpg) | ![](jpg_jardin/IMG_3867.jpg) |
+|:--:|:--:|
+| Plant de tomates Moskvich (2021/09/01) |  (2021/09/14) |  
 
 ### Rebel Star Fighter Prime
 Grosse tomate (>2 po) en forme de coeur/virgule, avec marbrures rouges, brunes, violettes, vertes... Fruit charnu de très bon goût. Très bonne tolérance aux maladies. 
@@ -312,11 +298,10 @@ Grosse tomate (>2 po) en forme de coeur/virgule, avec marbrures rouges, brunes, 
 * 2021 : 1 plant en pot. Chétif mais productif. Plusieurs fruits ne sont pas parvenus à terme à cause du froid.
   + Production : 4 tomates
 
-   
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Tomate Rebel Starfighter Prime (2021/08/27)   ;   (2021/09/09)" }
-knitr::include_graphics(c("photos_jardin/IMG_3590.jpg", "photos_jardin/IMG_3813.jpg"))
-```
+| ![](jpg_jardin/IMG_3590.jpg) | ![](jpg_jardin/IMG_3813.jpg) |
+|:--:|:--:|
+| Tomate Rebel Starfighter Prime (2021/08/27) |  (2021/09/09) |
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Plant de Rebel Starfighter Prime (2021/09/09)" }
-knitr::include_graphics(c("photos_jardin/IMG_3666.jpg", "photos_jardin/IMG_3812_plant.jpg"))
-```
+| ![](jpg_jardin/IMG_3666.jpg) | ![](jpg_jardin/IMG_3812_plant.jpg) |
+|:--:|:--:|
+| Plant de Rebel Starfighter Prime (2021/09/09) |  (2021/09/09) |
