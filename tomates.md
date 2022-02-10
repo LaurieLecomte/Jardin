@@ -104,22 +104,15 @@ Tomate groseille (*Solanum pimpinellifolium*) rouge de petite taille (max 1 cm d
 |:--:|:--:|
 | Grappe de fruits Petit moineau (2021/08/17)  |  Section du plant (2021/08/27) |
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fruits Petit moineau (2021/08/17)   ;   Section du plant (2021/08/27)" }
-knitr::include_graphics(c("photos_jardin/IMG_3491.jpg","photos_jardin/IMG_3581.jpg"))
-```
-
-
 ### Groseille orange 
 Tomate groseille (*Solanum pimpinellifolium*) orangée de petite taille (max 1 cm diamètre). Plant entièrement glabre. Croissance latérale **monstrueuse**, énormément de ramifications.
 
 * 2021 : 1 plant en terre (sur face cabanon). Plus productive que Petit moineau rouge. Peu sucrée. Production jusqu'aux gels.
   + Production : 314 tomates
-  
 
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fruits de tomate mini orange (2021/08/17)" }
-knitr::include_graphics("photos_jardin/IMG_3492.jpg")
-```
-
+| <img src="jpg_jardin/IMG_3492.jpg" width="500" /> |
+|:--:|
+| Grappe de fruits de tomate mini orange (2021/08/17) |
 
 ### Groseille jaune
 Tomate groseille jaune de la taille d'un raisin, plus grande que groseille rouge/orange. Plant poilu : semble plus proche de tomate standard (*S. lycopersium*) que de tomate groseille (*S. pimpinellifolium*). Croissance latérale **monstrueuse**.
@@ -127,10 +120,9 @@ Tomate groseille jaune de la taille d'un raisin, plus grande que groseille rouge
 * 2021 : 1 plant en terre (sur face cabanon). Amer. Production jusqu'aux gels.
   + Production : 173 tomates
 
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fruits de tomate mini jaune (2021/08/17)" }
-knitr::include_graphics("photos_jardin/IMG_3494.jpg")
-```
+| <img src="jpg_jardin/IMG_3494.jpg" width="500" /> |
+|:--:|
+| Grappe de fruits de tomate mini jaune (2021/08/17) |
 
 ### Groseille blanche
 Tomate groseille blanche de la taille d'un raisin, plus grande que groseille rouge/orange. Plant poilu : semble plus proche de tomate standard (*S. lycopersium*) que de tomate groseille (*S. pimpinellifolium*). Croissance latérale **monstrueuse**.
@@ -138,10 +130,10 @@ Tomate groseille blanche de la taille d'un raisin, plus grande que groseille rou
 * 2021 : 1 plant en terre (sur face cabanon). Amer. Production jusqu'aux gels.
   + Production : 294 tomates
   
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fruits de tomate mini blanche (2021/08/17)" }
-knitr::include_graphics("photos_jardin/IMG_3495.jpg")
-```
+| <img src="jpg_jardin/IMG_3495.jpg" width="500" /> |
+|:--:|
+| Grappe de fruits de tomate mini blanche (2021/08/17) |
+`
 
 ### Millefleur
 Petite tomate cerise jaune (< 1 po diamètre) dans des grappes très fournies, de plusieurs dizaines de fleurs. 
@@ -149,10 +141,9 @@ Petite tomate cerise jaune (< 1 po diamètre) dans des grappes très fournies, d
 * 2021 : 1 plant en pot. 
   + Production : 65 tomates
   
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de fleurs de Millefleur (2021/08/11)" }
-knitr::include_graphics("photos_jardin/IMG_3403.jpg")
-```
+| <img src="jpg_jardin/IMG_3403.jpg" width="500" /> |
+|:--:|
+| Grappe de fleurs de Millefleur (2021/08/11) |
 
   
 ### Cerise blanche
@@ -161,11 +152,9 @@ Tomate cerise blanche crème et sucrée.
 * 2021 : 1 plant en pot. 
   + Production : 86 tomates
   
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Plant de tomate cerise blanche (2021/09/01)   ;  Fruits de cerise blanche et de Sunpeach (2021/09/20)" }
-knitr::include_graphics(c("photos_jardin/IMG_3700.jpg", "photos_jardin/IMG_3967.jpg"))
-```
-
+| ![](jpg_jardin/IMG_3700.jpg) | ![](jpg_jardin/IMG_3967.jpg) |
+|:--:|:--:|
+| Plant de tomate cerise blanche (2021/09/01) | Fruits de cerise blanche et de Sunpeach (2021/09/20) |  
 
 ### Brad's Atomic
 Tomate cerise oblongue (>1 po de longueur) marbrée de violet, vert, brun... Bon goût.
@@ -173,11 +162,9 @@ Tomate cerise oblongue (>1 po de longueur) marbrée de violet, vert, brun... Bon
 * 2021 : 1 plant en pot. 
   + Production : 16 tomates
 
-
-```{r, echo=FALSE, out.width="50%", fig.align = "center", fig.show='hold', fig.cap="Grappe de Brad's Atomic (2021/09/01)   ; Fruit presque mature (2021/08/29)" }
-knitr::include_graphics(c("photos_jardin/IMG_3665.jpg", "photos_jardin/IMG_3637.jpg"))
-```
-
+| ![](jpg_jardin/IMG_3665.jpg) | ![](jpg_jardin/IMG_3637.jpg) |
+|:--:|:--:|
+| Grappe de Brad's Atomic (2021/09/01) | Fruit presque mature (2021/08/29) |  
 
 ### Tumbler
 Tomate cerise à port compact pour jardinière. 
