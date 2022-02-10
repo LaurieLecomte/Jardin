@@ -30,3 +30,16 @@ Haricot vert.
 Variété de soya type edamame. Plant compact.
 
 * 2021 : Semis intérieur en mars, transplantation extérieure en mai en terre. Peu de production, une douzaine de cosses max avec 2 fèves dedans. Probablement trop à l'ombre + besoin mycorhizes.
+
+# Pois mange-tout
+
+### Sugar Snap
+Pois à fleurs blanches.
+
+* 2021 : 2 semis à l'intérieur en avril, transplanté en terre en mai. Aucune croissance en hauteur au delà de 1 pied, ni de formation de nouvelles tiges. Quelques fleurs produites, mais pas de récolte. 
+
+|<img src="jpg_jardin/IMG_2617.jpg" width="500" />
+|:--:|
+| Fleur de Sugar Snap (2021/06/22) |
+
+ 
