@@ -172,6 +172,8 @@ Tomate cerise à port compact pour jardinière.
 * 2021 : 1 plant en jardinière, production nulle. Beaucoup de mortalité des semis : maladie fongique ? Graines infectées ? 
   + Production : 0  :( 
 
+> Tenter de traiter les graines au peroxyde/alcool avant les semis ?
+
 
 ## Grosses tomates
 ### Bobcat
