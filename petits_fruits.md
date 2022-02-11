@@ -183,7 +183,7 @@ Environ 50 cm de hauteur à l'achat. Pas beaucoup de tiges ni de feuilles, mais 
 
 | ![](jpg_petits_fruits/IMG_2339.jpg) | ![](jpg_petits_fruits/IMG_4504.jpg) |
 |:--:|:--:|
-| Émergence des feuilles de Sweetheart (2021/05/17) | Sweetheart à l'automne (2021/10/23) |
+| Émergence des feuilles de Sweetheart (2021/05/17) | Sweetheart à l'automne (pot jaune) (2021/10/23) |
 
 
 # **Bleuets sauvages**
