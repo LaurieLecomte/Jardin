@@ -61,7 +61,7 @@ Croissance jusqu'à environ 1.6 m de hauteur. Le plant est maintenant plus grand
 
 * Achat : 2021 (Pépinière Jean Gagné, St-Lambert)
 
-#### 2021 
+### 2021 
 
 Acheté en mai comme 'compagnon de pollinisation' pour Patriot. Beaucoup de fleurs à l'achat. Environ 50 cm de hauteur.
 
@@ -108,7 +108,7 @@ Apparition champignon gris sur tiges : maladie fongique à identifier ? Tx à la
 |:--:|
 | Petite amie au travail ! (2020/05/30) |
 
-#### 2021
+### 2021
 
 Croissance à environ 1.4 m de hauteur et beaucoup de croissance des tiges et des feuilles. Meilleure année jusqu'à maintenant, pour la croissance et la production. 
 Ajout d'un filet pour réduire les vols par les écureuils et Naya. Ça n'a pas fonctionné avec Naya. 
@@ -136,7 +136,7 @@ Cultivar de bleuets à fruits **roses** (comme Pink Lemonade).
 
 * Achat : 2020 (Multi-Feuillage, Port-Rouge)
 
-#### 2020
+### 2020
 
 Environ 60 cm de hauteur à l'achat. Pas beaucoup de tiges ni de feuilles, mais déjà beaucoup de fleurs à l'achat. 
 Transplanté en gros pot jaune dans mélange de terre acide et de gravier en septembre. 
@@ -151,7 +151,7 @@ Fruits mûrs lorsqu'ils sont rendus uniformément roses et mous comme un bleut n
 | Floraison (2020/05/20) | Petite production de bleuets Pink Popcorn (2021/08/07) |
 
 
-#### 2021
+### 2021
 
 Pas beaucoup de croissance en hauteur (rendu à environ 70-80 cm de hauteur), mais quelques nouvelles branches. Aucune floraison ni production : est-ce que la transplantation en septembre 2020 était trop tardive ? Système racinaire sous-développé qui a mal toléré l'hiver ? Variété pas assez rustique ?
 
@@ -172,12 +172,11 @@ Autrement, le plant semble en très bonne santé.
 * Achat : 2020 (Jardin Jasmin, Montréal)
 * Particularités : Feuilles anormalement rondes et possibilité de 2 floraison
 
-#### 2020
+### 2020
 
 Environ 50 cm de hauteur à l'achat. Pas beaucoup de tiges ni de feuilles, mais déjà beaucoup de fleurs. 
 
-
-#### 2021
+### 2021
 
 * Sortie au printemps : 9 avril, **très tôt**
 * Emplacement : Plate-bande arrière (mi-ombre-soleil)
@@ -211,22 +210,37 @@ Transplanté dans gros pots carrés gris à la fin de l'été.
 * Floraison : Aucune 
 * Production : Aucune 
 
-#### 2020
+### 2020
 
 * Sortie au printemps : 6 mai
 * Emplacement : Patio (mi-ombre)
 * Floraison : Autour du 25 mai
 * Production : Quelques baies
 
+| ![](jpg_petits_fruits/IMG_8392.jpg) | ![](jpg_petits_fruits/IMG_8520.jpg) |
+|:--:|:--:|
+| Bourgeons à la sortie d'hibernation (2021/05/06) | Sweetheart à l'automne (pot jaune) (2021/05/20) |
 
-#### 2021
+| ![](jpg_petits_fruits/IMG_8609.jpg) | ![](jpg_petits_fruits/IMG_9240.jpg) |
+|:--:|:--:|
+| Bourgeons à la sortie d'hibernation (2021/05/26) | Mini récolte (2021/07/14) |
+
+### 2021
 
 * Sortie au printemps : 9 avril, **très tôt**
 * Emplacement : Plate-bande arrière (mi-ombre-soleil)
 * Floraison : Fin avril
-* Production : Quelques baies en juin
+* Production : Quelques baies en juin 
 
+> Mettre dans plate-bande plein soleil l'an prochain
 
+| ![](jpg_petits_fruits/IMG_1989.jpg) | ![](jpg_petits_fruits/IMG_2119.jpg) | 
+|:--:|:--:|
+| Bourgeons à la sortie d'hibernation (2021/04/09) | Début de floraison (2021/04/28) |
+
+| ![](jpg_petits_fruits/IMG_2201.PNG) | ![](jpg_petits_fruits/IMG_2350.jpg) | 
+|:--:|:--:|
+| Floraison (2021/04/09) | Floraison avancée (2021/04/28) |
 
 
 # **Canneberges**
@@ -236,7 +250,7 @@ Transplanté dans gros pots carrés gris à la fin de l'été.
 * Achat : 2020 (Jardin Jasmin, Montréal)
 * Pas encore de production
 
-#### 2020
+### 2020
 
 Transplanté dans gros pot gris à la fin de l'été, dans terre acide + gravier.
 
@@ -245,7 +259,7 @@ Transplanté dans gros pot gris à la fin de l'été, dans terre acide + gravier
 * Production : Aucune 
 
 
-#### 2021
+### 2021
 
 La plant a l'air d'avoir trouvé l'hiver difficile : beaucoup de tiges semblaient mortes à la sortie de son hibernation, mais quelques fleurs sont sorties . Reprise de la croissance tard en saison.
 
@@ -304,7 +318,7 @@ Variété très productive développée par McGinnis Berry Crops (Colombie-Brita
 
 * Feuille légèrement différente de celle des cultivars anglais
 * Achat : 3 plants de 1 an en 2021 (Pépinière des Pioniers, Mont-Louis, Gaspésie)
-  + Variété vendue sous le nom de Soeur ?
+  + Variété vendue sous un autre nom dans leur catalogue
   + Plants à racines nues cultivés en sol argileux (bcp d'argile sur les racines à la réception)
   + Reçus le 17 mai 2021
   + Bourgeons de feuilles jaunies à la réception (feuilles redevenues normales dans les jours suivants)
@@ -322,14 +336,43 @@ Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans
 
 2 plants de groseilles plantés au chalet dans les années 70. Achetés chez Perron à l'époque, mais aucune trace de ces groseillers dans leurs catalogues. 
 
+### 2019
 
+### 2020
+
+### 2021
 
 
 ## **Captivator**
 
+Cultivar sans épines qui produit des fruits en forme de goutte de très gros diamètre, assez sucrés. Fermentent plutôt facilement si entreposés trop longtemps.
+
 * Achat : 2019 (Serres Sainte-Julie, Ste-Julie)
 
+### 2019
 
+Transplanté à l'automne dans gros pot brun. 
+
+* Floraison : 4-5 fleurs
+* Production : Aucune
+
+### 2020
+
+Croissance en hauteur et en tiges latérales. 5-6 fruits bouffés par les écureuils.
+
+* Emplacement : Mi-ombre (patio)
+* Floraison : 4-5 fleurs
+* Production : Aucune
+
+
+
+### 2021
+
+Beaucoup de croissance et **EXCELLENTE** production !
+
+* Emplacement : Mi-ombre (patio)
+* Floraison : Fin avril
+* Production : 2 pots de yogourt de très grosses groseilles sucrée !
 
 # **Thé des bois**
 
@@ -338,7 +381,7 @@ Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans
 * Achat : 2020 (Jardin Jasmin, Montréal)
 
 
-#### 2020
+### 2020
 
 * Floraison : Juillet
 * Production : Quelques gros fruits
@@ -352,7 +395,7 @@ Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans
 | Fruits (2020/10/12) | Sous la neige (2021/10/26) |
 
 
-#### 2021
+### 2021
 
 Étalement du plant dans son pot.
 
