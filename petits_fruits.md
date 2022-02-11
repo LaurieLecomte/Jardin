@@ -125,6 +125,9 @@ Pas de progression de la maladie fongique inconnu.
 |:--:|:--:|
 | Début de floraison (2021/05/17) | Grand plant de Patrio en floraison (pot brun) derrière son petit frère Northblue (2021/05/26) |
 
+| ![](jpg_petits_fruits/IMG_2806.jpg) | ![](jpg_petits_fruits/IMG_3232.jpg) |
+|:--:|:--:|
+| Abondance de fruits en croissance (2021/06/28) | Fruits plus tard en saison (2020/08/05) |
 
 
 ## Pink Popcorn
@@ -334,6 +337,26 @@ Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans
 
 * Achat : 2020 (Jardin Jasmin, Montréal)
 
+
 #### 2020
 
+* Floraison : Juillet
+* Production : Quelques gros fruits
+
+| ![](jpg_petits_fruits/IMG_8556.jpg) | ![](jpg_petits_fruits/IMG_9329.jpg) |
+|:--:|:--:|
+| Plant de thé des bois à l'achat (2020/05/22) | Floraison (2020/07/26) |
+
+| ![](jpg_petits_fruits/IMG_0240.jpg) | ![](jpg_petits_fruits/IMG_0422.jpg) |
+|:--:|:--:|
+| Fruits (2020/10/12) | Sous la neige (2021/10/26) |
+
+
 #### 2021
+
+Étalement du plant dans son pot.
+
+| ![](jpg_petits_fruits/IMG_3198.jpg) | ![](jpg_petits_fruits/IMG_4424.jpg) |
+|:--:|:--:|
+| Floraison et nouvelles feuilles (2021/08/02) | Fruits (2021/10/15) |
+
