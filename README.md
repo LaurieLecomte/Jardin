@@ -4,14 +4,14 @@ Observations et images de mes aventures botaniques et maraîchères, classées p
 
 ## Contenu des sections
 
-* petits_fruits.md : amélanches, bleuets cultivés, camerises, canneberges, cassis, groseilles, thé des bois 
-* toncombres.md : variétés de concombres réguliers et cucamelon
-* tomates.md : variétés de tomates cerises, groseilles et de grosses tomates (ex. beefsteak)
-* physalis.md : cerises de terre
-* legumes_racines.md : carottes, betteraves, panais et oignons
-* legumineuses.md : haricots, soya, pois
-* piments.md
-* champignons.md : cultures de champignons sur mycélium à l'intérieure
+* `petits_fruits.md` : amélanches, bleuets cultivés, camerises, canneberges, cassis, groseilles, thé des bois 
+* `toncombres.md` : variétés de concombres réguliers et cucamelon
+* `tomates.md` : variétés de tomates cerises, groseilles et de grosses tomates (ex. beefsteak)
+* `physalis.md` : cerises de terre
+* `legumes_racines.md` : carottes, betteraves, panais et oignons
+* `legumineuses.md` : haricots, soya, pois
+* `piments.md`
+* `champignons.md` : cultures de champignons sur mycélium à l'intérieur
 
 
 ## Conditions de culture
