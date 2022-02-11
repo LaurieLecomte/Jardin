@@ -273,18 +273,68 @@ La plant a l'air d'avoir trouvé l'hiver difficile : beaucoup de tiges semblaien
 
 ## Ben Connan (Old Ben Kenobi)
 
-Variété britannique. Un peu sensible à la rouille vésiculeuse du pin blanc.
+Variété britannique. Un peu sensible à la rouille vésiculeuse du pin blanc. Le premier plant de cassis que j'ai acheté, et le plus productif.
 
 * Achat : 2018 (Hamel ou Bourbeau)
 
-#### 2018
+### 2018
 
-#### 2019
+* Emplacement : Patio (mi-ombre)
+* Production : Aucune
 
-#### 2020
+### 2019
 
-#### 2021
+Très faible production car mouche du groseiller (*E. canadensis). 
 
+* Sortie au printemps : Mi mai
+* Emplacement : Patio (mi-ombre)
+* Floraison : Fin mai
+* Production : environ 1 tasse de baies, la plupart parasitées par les larves de la mouche 
+
+| ![](jpg_petits_fruits/IMG_4165.jpg) |  
+|:--:|
+| Petite récolte de cassis, toutes variétés confondues (2021/07/29) |
+
+
+### 2020
+Tx au malathion 2X au printemps + toile de protection en plastique. Ajout plastiques à la base des plants pour empêcher les larves dans les fruits qui tombent de rentrer dans terreau et de parasiter les fruits de l'an prochain. 
+
+* Sortie au printemps : 6 mai
+* Emplacement : Patio (mi-ombre)
+* Floraison : Fin mai
+* Production : Meilleure qu'en 2019, beaucoup moins de larves de mouches du groseiller. 600 g de cassis
+
+| ![](jpg_petits_fruits/IMG_8522.jpg) | ![](jpg_petits_fruits/IMG_8519.jpg) | 
+|:--:|:--:|
+| Bourgeons à la sortie d'hibernation (2021/05/20) | Début de floraison (2021/05/20) |
+
+| ![](jpg_petits_fruits/IMG_9448.jpg) | ![](jpg_petits_fruits/IMG_9450.jpg) | 
+|:--:|:--:|
+| Grappe (2020/08/07) | Plant (2021/08/07) |
+
+| ![](jpg_petits_fruits/IMG_9470.jpg) |  
+|:--:|
+| Environ le 2/3 de la récolte 2020 (2020/08/07) |
+
+### 2021
+**AUCUNE** trace de la mouche du groseiller, mais production moins bonne qu'en 2020. Floraison et production plus tôt en saison qu'à l'habitude.
+
+* Sortie au printemps : 9 avril, **très tôt**
+* Emplacement : Plate-bande arrière (mi-ombre-soleil)
+* Floraison : Mai
+* Production : Environ 400 g fin juillet
+
+| ![](jpg_petits_fruits/IMG_2176.jpg) | ![](jpg_petits_fruits/IMG_2366.jpg) | 
+|:--:|:--:|
+| Bourgeons à la sortie d'hibernation (2021/05/07) | Floraison (2021/05/17) |
+
+| ![](jpg_petits_fruits/IMG_2811.jpg) | ![](jpg_petits_fruits/IMG_2932.jpg) | ![](jpg_petits_fruits/IMG_3087.jpg) | 
+|:--:|:--:|:--:|
+| Fruits en début de saison (2021/06/28) | Mûrissement plus avancé (2021/07/09) | (2021/07/23) |
+
+| ![](jpg_petits_fruits/IMG_3095.jpg) | ![](jpg_petits_fruits/IMG_3069.jpg) | 
+|:--:|:--:|
+| Grappe de gros fruits (2021/07/23) | Plant de Ben Connan (droite) à côté de Ben Tirran (milieu) et Ben Sarek (gauche) (2021/05/17) |
 
 ## Ben Sarek
 
