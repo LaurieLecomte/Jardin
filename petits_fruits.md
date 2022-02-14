@@ -226,6 +226,7 @@ Transplanté dans gros pots carrés gris à la fin de l'été.
 | Bourgeons à la sortie d'hibernation (2021/05/26) | Mini récolte (2021/07/14) |
 
 ### 2021
+Redoux en octobre a provoqué une **deuxième floraison**. 
 
 * Sortie au printemps : 9 avril, **très tôt**
 * Emplacement : Plate-bande arrière (mi-ombre-soleil)
@@ -242,6 +243,9 @@ Transplanté dans gros pots carrés gris à la fin de l'été.
 |:--:|:--:|
 | Floraison (2021/04/09) | Floraison avancée (2021/04/28) |
 
+|<img src="jpg_petits_fruits/IMG_4421.jpg" width="500" /> |
+|:--:|
+|Deuxième floraison en octobre (2021/10/15) |
 
 # **Canneberges**
 
@@ -284,14 +288,14 @@ Variété britannique. Un peu sensible à la rouille vésiculeuse du pin blanc. 
 
 ### 2019
 
-Très faible production car mouche du groseiller (*E. canadensis). 
+Très faible production car mouche du groseiller (*E. canadensis*). 
 
 * Sortie au printemps : Mi mai
 * Emplacement : Patio (mi-ombre)
 * Floraison : Fin mai
 * Production : environ 1 tasse de baies, la plupart parasitées par les larves de la mouche 
 
-| ![](jpg_petits_fruits/IMG_4165.jpg) |  
+|<img src="jpg_petits_fruits/IMG_4165.jpg" width="500" /> |
 |:--:|
 | Petite récolte de cassis, toutes variétés confondues (2021/07/29) |
 
@@ -337,30 +341,72 @@ Tx au malathion 2X au printemps + toile de protection en plastique. Ajout plasti
 | Grappe de gros fruits (2021/07/23) | Plant de Ben Connan (droite) à côté de Ben Tirran (milieu) et Ben Sarek (gauche) (2021/05/17) |
 
 ## Ben Sarek
-
 Variété britannique. Sensible à la rouille vésiculeuse du pin blanc.
 
 * Achat : 2019 (Bourbeau, Charlesbourg)
 
 #### 2019
+Transplanté en gros pot gris carré à la fin de l'été.
+
+* Emplacement : Patio (mi-ombre)
+* Production : Aucune
 
 #### 2020
+Faible production et traces de la mouche du groseiller (*E. canadensis*). Le plant devait être déjà infecté à l'achat en 2019.
+Tx au malathion 2X au printemps + toile de protection en plastique. Ajout plastiques à la base des plants pour empêcher les larves dans les fruits qui tombent de rentrer dans terreau et de parasiter les fruits de l'an prochain. 
+Apparition de **rouille vésiculeuse du pin blanc** : Tx à bouillie souffrée à l'automne
+
+* Sortie au printemps : 6 mai
+* Emplacement : Patio (mi-ombre)
+* Floraison : Fin mai
+* Production : 1/2 tasse de baies environ en fin juillet - début août
+
+|<img src="jpg_petits_fruits/IMG_9523.jpg" width="500" /> |
+|:--:|
+| Rouille sur feuilles de Ben Sarek (2020/08/10) |
+
 
 #### 2021
+
+**AUCUNE** trace de la mouche du groseiller, mais production demeure beaucoup plus faible que Ben Connan. Floraison et production plus tôt en saison qu'à l'habitude.
+
+* Sortie au printemps : 9 avril, **très tôt**
+* Emplacement : Plate-bande arrière (mi-ombre-soleil)
+* Floraison : Mai
+* Production : Environ 100 g de baies fin juillet
 
 
 ## Ben Tirran
 
-Variété britannique. Sensible à la rouille vésiculeuse du pin blanc.
+Variété britannique. Sensible à la rouille vésiculeuse du pin blanc. Production un peu plus tardive que Ben Connan et Ben Sarek.
 
 * Achat : 2019 (Bourbeau, Charlesbourg)
 
 #### 2019
+Transplanté en gros pot gris carré à la fin de l'été.
+Beaucoup de croissance de nouvelles feuilles tard en saison en août. Pourquoi ?
+Semble y avoir du currant borer (*Synanthedon tipuliformis*) : coupé tiges qui semblaient creuses.
+
+* Emplacement : Patio (mi-ombre)
+* Production : Aucune
 
 #### 2020
+Faible production et traces de la mouche du groseiller (*E. canadensis*). Le plant devait être déjà infecté à l'achat en 2019.
+Tx au malathion 2X au printemps + toile de protection en plastique. Ajout plastiques à la base des plants pour empêcher les larves dans les fruits qui tombent de rentrer dans terreau et de parasiter les fruits de l'an prochain. 
+Apparition de **rouille vésiculeuse du pin blanc** : Tx à bouillie souffrée à l'automne
 
+* Sortie au printemps : 6 mai
+* Emplacement : Patio (mi-ombre)
+* Floraison : Fin mai
+* Production : < 1/4 tasse de baies environ en fin juillet - début août
+* 
 #### 2021
+**AUCUNE** trace de la mouche du groseiller, mais production demeure beaucoup plus faible que toutes les autres variétés. Floraison et production plus tôt en saison qu'à l'habitude.
 
+* Sortie au printemps : 9 avril, **très tôt**
+* Emplacement : Plate-bande arrière (mi-ombre-soleil)
+* Floraison : Mai
+* Production : < 1/3 tasses de baies début août
 
 ## Thasis (?)
 
