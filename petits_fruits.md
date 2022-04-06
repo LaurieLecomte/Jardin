@@ -123,7 +123,7 @@ Pas de progression de la maladie fongique inconnu.
 
 | ![](jpg_petits_fruits/IMG_2341.jpg) | ![](jpg_petits_fruits/IMG_2443.jpg) |
 |:--:|:--:|
-| Début de floraison (2021/05/17) | Grand plant de Patrio en floraison (pot brun) derrière son petit frère Northblue (2021/05/26) |
+| Début de floraison (2021/05/17) | Grand plant de Patriot en floraison (pot brun) derrière son petit frère Northblue (2021/05/26) |
 
 | ![](jpg_petits_fruits/IMG_2806.jpg) | ![](jpg_petits_fruits/IMG_3232.jpg) |
 |:--:|:--:|
@@ -148,7 +148,7 @@ Fruits mûrs lorsqu'ils sont rendus uniformément roses et mous comme un bleut n
 
 | ![](jpg_petits_fruits/IMG_8521.jpg) | ![](jpg_petits_fruits/IMG_9454.jpg) |
 |:--:|:--:|
-| Floraison (2020/05/20) | Petite production de bleuets Pink Popcorn (2021/08/07) |
+| Floraison (2020/05/20) | Petite production de bleuets Pink Popcorn (2020/08/07) |
 
 
 ### 2021
@@ -262,6 +262,9 @@ Transplanté dans gros pot gris à la fin de l'été, dans terre acide + gravier
 * Floraison : Quelques fleurs au moment de l'achat fin mai
 * Production : Aucune 
 
+|<img src="jpg_petits_fruits/IMG_8650.jpg" width="500" /> |
+|:--:|
+|Floraison des cannerberges en début de saison (2020/05/28) |
 
 ### 2021
 
@@ -409,7 +412,6 @@ Apparition de **rouille vésiculeuse du pin blanc** : Tx à bouillie souffrée �
 * Production : < 1/3 tasses de baies début août
 
 ## Thasis (?)
-
 Variété très productive développée par McGinnis Berry Crops (Colombie-Britannique). Résistante à la rouille vésiculeuse du pin blanc. 
 
 * Feuille légèrement différente de celle des cultivars anglais
@@ -423,7 +425,11 @@ Variété très productive développée par McGinnis Berry Crops (Colombie-Brita
 #### 2021
 Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans des contenants temporaires de 2 gallons (enterés dans le sol en novembre pour protection hivernale).
 
-* Emplacement : Plate-bande arrière (mi-ombre-soleil)
+* Emplacement : Patio (mi-ombre)
+
+|<img src="jpg_petits_fruits/IMG_2324.jpg" width="500" /> |
+|:--:|
+| 3 plants de Thasis à racines nues à leur réception (2021/05/17) |
 
 
 # **Groseilles**
@@ -433,10 +439,33 @@ Transplanté en mai le plus gros plant dans gros rouge et les 2 plus petits dans
 2 plants de groseilles plantés au chalet dans les années 70. Achetés chez Perron à l'époque, mais aucune trace de ces groseillers dans leurs catalogues. 
 
 ### 2019
+Production moyenne, fruits d'excellente qualité (peu ou pas de piqûres, mûrissement uniforme).
+
+* Production : ~3/4 L  mi-fin août
+
+|<img src="jpg_petits_fruits/IMG_4428.jpg" width="500" /> |
+|:--:|
+| Production moyenne (2019/08/26) |
 
 ### 2020
+Production moyenne, fruits d'excellente qualité.
+ 
+* Production : 1 pot de compote de pomme Choix du Président 650 mL (semblable à production de 2019)
 
 ### 2021
+Ajout d'engrai à petits fruits en début de saison.
+Apparition de taches rouges sur les feuilles en juillet : maladie fongique ? 
+Grosse infestation par la mouche du groseiller :( Beaucoup de fruits tombés prématurément, mais la récolte a quand même été excellente.
+
+* Production : 1.2 kg de fruits mi août (+ ~1/3 L de fruits tombés au sol, cueillis, pulvérisés pour en extraire la larve) 
+*
+| ![](jpg_petits_fruits/IMG_3140.jpg) | ![](jpg_petits_fruits/IMG_3155.jpg) | 
+|:--:|:--:|
+| Fruits piqués par la mouche du groseiller (2021/07/28) | Fruits à différents stade de mûrissement (2021/07/28) |
+
+|<img src="jpg_petits_fruits/IMG_3458.jpg" width="500" /> |
+|:--:|
+| Bonne récolte ! (2021/08/15) |
 
 
 ## **Captivator**
@@ -460,15 +489,26 @@ Croissance en hauteur et en tiges latérales. 5-6 fruits bouffés par les écure
 * Floraison : 4-5 fleurs
 * Production : Aucune
 
-
-
 ### 2021
 
-Beaucoup de croissance et **EXCELLENTE** production !
+Beaucoup de croissance et **EXCELLENTE** production ! Récolte étalée sur plusieurs semaines en août et septembre, quelques derniers fruits début octobre. Feuilles encore bien vertes aux premiers gels.
 
 * Emplacement : Mi-ombre (patio)
 * Floraison : Fin avril
 * Production : 2 pots de yogourt de très grosses groseilles sucrée !
+
+| ![](jpg_petits_fruits/IMG_2361.jpg) | ![](jpg_petits_fruits/IMG_2810.jpg) | 
+|:--:|:--:|
+| Fleurs de Captivator (2021/05/17) | Fruits immatures (2021/06/28) |
+
+| ![](jpg_petits_fruits/IMG_3502.jpg) | ![](jpg_petits_fruits/IMG_3503.jpg) | 
+|:--:|:--:|
+| Plant chargé de fruits presque mûrs (2021/08/18) | Gros fruits (2021/08/19) |
+
+|<img src="jpg_petits_fruits/IMG_3547.jpg" width="500" /> |
+|:--:|
+| Belle récoltes d'énormes groseilles (2021/08/23) |
+
 
 # **Thé des bois**
 
