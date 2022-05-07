@@ -219,11 +219,11 @@ Transplanté dans gros pots carrés gris à la fin de l'été.
 
 | ![](jpg_petits_fruits/IMG_8392.jpg) | ![](jpg_petits_fruits/IMG_8520.jpg) |
 |:--:|:--:|
-| Bourgeons à la sortie d'hibernation (2021/05/06) | Sweetheart à l'automne (pot jaune) (2021/05/20) |
+| Bourgeons à la sortie d'hibernation (2020/05/06) | Floraison (2020/05/20) |
 
 | ![](jpg_petits_fruits/IMG_8609.jpg) | ![](jpg_petits_fruits/IMG_9240.jpg) |
 |:--:|:--:|
-| Bourgeons à la sortie d'hibernation (2021/05/26) | Mini récolte (2021/07/14) |
+| Floraison (2020/05/26) | Mini récolte (2020/07/14) |
 
 ### 2021
 Redoux en octobre a provoqué une **deuxième floraison**. 
@@ -241,7 +241,7 @@ Redoux en octobre a provoqué une **deuxième floraison**.
 
 | ![](jpg_petits_fruits/IMG_2201.PNG) | ![](jpg_petits_fruits/IMG_2350.jpg) | 
 |:--:|:--:|
-| Floraison (2021/04/09) | Floraison avancée (2021/04/28) |
+| Floraison (2021/05/07) | Floraison avancée (2021/05/17) |
 
 |<img src="jpg_petits_fruits/IMG_4421.jpg" width="500" /> |
 |:--:|
