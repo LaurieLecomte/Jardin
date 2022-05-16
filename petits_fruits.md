@@ -57,6 +57,16 @@ Croissance jusqu'à environ 1.6 m de hauteur. Le plant est maintenant plus grand
 
 # **Bleuets cultivés**
 
+## Duke
+
+* Achat : 2022 (Ferme R. Labrecque, Lévis) - 2 plants de 1 gal
+
+
+## Elizabeth
+
+* Achat : 2022 (Ferme R. Labrecque, Lévis) - 2 plants de 1 gal
+
+
 ## Northblue
 
 * Achat : 2021 (Pépinière Jean Gagné, St-Lambert)
