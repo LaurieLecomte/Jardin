@@ -54,6 +54,17 @@ Croissance jusqu'à environ 1.6 m de hauteur. Le plant est maintenant plus grand
 * Floraison : Aucune 
 * Production : Aucune 
 
+### 2022
+
+Ajout compost à la mi mai. 
+Commencé saison derrière piscine à mi-ombre.
+Bonne floraison et formation de fruits, mais plusieurs ont avorté ou ont été piqués :( 
+
+* Sortie au printemps : Début mai
+* Emplacement : Piscine(mi-ombre)
+* Floraison : Bonne 
+* Production : Faible 
+
 
 # **Bleuets cultivés**
 
